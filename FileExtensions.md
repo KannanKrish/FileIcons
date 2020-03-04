@@ -1,4 +1,4 @@
-## Supported File Extensions (671)
+## Supported File Extensions (672)
 
 - .7z
 - .aar
@@ -646,6 +646,7 @@
 - .xafml
 - .xaml
 - .xap
+- .xd
 - .xdt
 - .xht
 - .xhtm

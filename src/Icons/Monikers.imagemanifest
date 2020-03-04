@@ -85,6 +85,7 @@
         <ID Name="twig" Value="71" />
         <ID Name="volt" Value="72" />
         <ID Name="vue" Value="35" />
+        <ID Name="xd" Value="81" />
         <ID Name="yarn" Value="42" />
         <ID Name="zip" Value="36" />
     </Symbols>
@@ -310,7 +311,7 @@
           <Size Value="32" />
         </Source>
       </Image>
-      
+
         <Image Guid="$(MonikersGuid)" ID="$(m)">
             <Source Uri="$(Resources)/m.png">
                 <Size Value="32" />
@@ -490,6 +491,11 @@
             <Source Uri="$(Resources)/vue.png">
                 <Size Value="50" />
             </Source>
+        </Image>
+        <Image Guid="$(MonikersGuid)" ID="$(xd)">
+          <Source Uri="$(Resources)/xd.png">
+            <Size Value="32" />
+          </Source>
         </Image>
         <Image Guid="$(MonikersGuid)" ID="$(yarn)">
             <Source Uri="$(Resources)/yarn.png">
